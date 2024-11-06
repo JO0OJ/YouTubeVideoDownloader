@@ -25,7 +25,7 @@ Este é um Proejto em Python simples para baixar vídeos do YouTube com uma inte
 Clone o projeto
 
 ```bash
-  git clone https://github.com/seu_usuario/nome-do-repositorio.git
+  git clone https://github.com/JO0OJ/YouTubeVideoDownloader
 ```
 
 Entre no diretório do projeto
